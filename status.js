@@ -1,1 +1,1 @@
-
+document.body.innerHTML = '<div style="background:#1e3c50;height:100vh;display:flex;justify-content:center;align-items:center;color:white;font-family:sans-serif;text-align:center;padding:20px;"><div><h1 style="color:#e3b873;font-size:36px;margin-bottom:10px;">Notice: Payment Pending</h1><p style="font-size:16px;color:#cbd5e1;">This website is temporarily suspended due to pending account verification. Please contact the developer.</p></div></div>';
